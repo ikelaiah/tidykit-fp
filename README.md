@@ -1,3 +1,13 @@
+# 📦 Archived
+
+This library is now archived. The functionality will be available as smaller, focused modules (better maintainability and usability) under my GitHub profile: 
+
+👉 @ikelaiah
+
+Thanks for using `tidykit-fp`!
+
+---
+
 # 🔧 TidyKit: Robust Tools for Free Pascal Development!
 
 [![FPC](https://img.shields.io/badge/Free%20Pascal-3.2.2-blue.svg)](https://www.freepascal.org/)
